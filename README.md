@@ -69,7 +69,8 @@ After classification, we generate a bar chart to visualize the **top 10 nearest 
 
 ---
 
-## How to Use
+## Output
+![KNN](KNNoutput.png)
 
 ### Generalized KNN
 
